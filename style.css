@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    
+}
+
+
+.conteiner>span{
+    color: cyan;
+    font-size: 100px;
+    
+}
+.conteiner{
+    display: flex;
+    margin-top: 350px;
+    justify-content: center;
+
+}
